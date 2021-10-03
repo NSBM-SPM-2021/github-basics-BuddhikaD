@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac6c9bb2-24ef-41ab-8af3-6c80bb1f92d1" name="Changes" comment="" />
+    <list default="true" id="ac6c9bb2-24ef-41ab-8af3-6c80bb1f92d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/firebase.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/firebase.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633117837386</updated>
-      <workItem from="1633117839565" duration="1687000" />
+      <workItem from="1633117839565" duration="2647000" />
+      <workItem from="1633281520402" duration="342000" />
     </task>
     <servers />
   </component>
@@ -57,5 +63,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
