@@ -30,23 +30,5 @@ jobs:
     - name: Archive Build
       uses: actions/upload-artifact@v2
       with:
-          name: build
-          path: build
-  deploy:
-    name: Deploy
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@main
-      - name: Download artifact
-        uses: actions/download-artifact@main
-        with:
-          name: build
-          path: build
-      - name: Deploy to Firebase
-        uses: w9jds/firebase-action@master
-        with:
-          args: deploy --only hosting
-        env: 
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          name: dist
+          path: dist
