@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-basics-BuddhikaD/static/css/main.a25c5c15.chunk.css",
+    "main.js": "/github-basics-BuddhikaD/static/js/main.9090fe35.chunk.js",
+    "main.js.map": "/github-basics-BuddhikaD/static/js/main.9090fe35.chunk.js.map",
+    "runtime-main.js": "/github-basics-BuddhikaD/static/js/runtime-main.662d7bba.js",
+    "runtime-main.js.map": "/github-basics-BuddhikaD/static/js/runtime-main.662d7bba.js.map",
+    "static/js/2.747c8b0d.chunk.js": "/github-basics-BuddhikaD/static/js/2.747c8b0d.chunk.js",
+    "static/js/2.747c8b0d.chunk.js.map": "/github-basics-BuddhikaD/static/js/2.747c8b0d.chunk.js.map",
+    "index.html": "/github-basics-BuddhikaD/index.html",
+    "precache-manifest.40717d114d720b052c848deb7cdff483.js": "/github-basics-BuddhikaD/precache-manifest.40717d114d720b052c848deb7cdff483.js",
+    "service-worker.js": "/github-basics-BuddhikaD/service-worker.js",
+    "static/css/main.a25c5c15.chunk.css.map": "/github-basics-BuddhikaD/static/css/main.a25c5c15.chunk.css.map",
+    "static/js/2.747c8b0d.chunk.js.LICENSE.txt": "/github-basics-BuddhikaD/static/js/2.747c8b0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.662d7bba.js",
+    "static/js/2.747c8b0d.chunk.js",
+    "static/css/main.a25c5c15.chunk.css",
+    "static/js/main.9090fe35.chunk.js"
+  ]
+}
