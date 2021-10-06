@@ -2,7 +2,7 @@
   "name": "github_basics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NSBM-SPM-2021/github-basics-BuddhikaD",
+  "homepage": "http://NSBM-SPM-2021.github.io/github-basics-BuddhikaD",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
